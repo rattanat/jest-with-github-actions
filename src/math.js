@@ -5,7 +5,7 @@
  * @param {number} y second number.
  * @returns Addition of both arguments.
  */
-const add = (x, y) => x + 3;
+const add = (x, y) => x + 5;
 
 /**
  * Simple subtraction.
